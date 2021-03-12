@@ -1,6 +1,5 @@
 import React from 'react';
 import './App.css';
-<<<<<<< HEAD
 
 import styled from 'styled-components'
 
@@ -106,20 +105,3 @@ class App extends React.Component{
 }
 
 export default App;
-=======
-/* import styled from 'styled-components'; */
-import {Mensagem} from './components/Mensagem'
-
-/* const Mensagem = styled.div `
-  height: 100vh;
-` */
-
-export default function App() {
-  return (
-    <div>
-    <Mensagem/>
-    </div>
-  )
-}
-
->>>>>>> d14b2eb8af5b5709989133c920c652bae7b6ab3b
