@@ -3,9 +3,6 @@ Projeto em sala WhastLab
 Usuário terá que digitar seu nome e a mensagem e ao enviar, as mensagens ficaram armazenadas, estilo Whatsapp.
 
 
-
-
-
 Primeiros passos com Create React App
 Este projeto foi inicializado com o aplicativo Create React .
 
