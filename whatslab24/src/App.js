@@ -76,11 +76,8 @@ class App extends React.Component{
       <Corpo>
         <SpaceMessage>
         <MsgDigitada>
-          <h1>WhatsLab</h1>
-          <div className="chat">
             {conversasdoChat}
-          </div>
-        </MsgDigitada>
+         </MsgDigitada>
        
        <Inputs>
         
