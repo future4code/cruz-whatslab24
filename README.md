@@ -7,3 +7,4 @@ Neste link é possível verificar o resultado final do projeto: http://whatslab2
 Integrantes : Dayane Lang e Kelvia K.S.Santos
 
 ![image](https://user-images.githubusercontent.com/77943169/111230885-11e2e280-85c7-11eb-86a1-5cc3775a1b79.png)
+![image](https://user-images.githubusercontent.com/77943169/111231075-5e2e2280-85c7-11eb-97bc-827077f69044.png)
