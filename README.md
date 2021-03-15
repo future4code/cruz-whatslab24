@@ -5,3 +5,5 @@ Projeto em sala WhastLab O cliente de hoje está tentando fazer uma utopia (voc�
 Neste link é possível verificar o resultado final do projeto: http://whatslab24.surge.sh/
 
 Integrantes : Dayane Lang e Kelvia K.S.Santos
+
+![image](https://user-images.githubusercontent.com/77943169/111230885-11e2e280-85c7-11eb-86a1-5cc3775a1b79.png)
